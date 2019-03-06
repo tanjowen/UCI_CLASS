@@ -1,2 +1,2 @@
 # UCI_CLASS
-Bootcamp
+Data Analytics Bootcamp
